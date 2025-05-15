@@ -1,4 +1,4 @@
-# voici comment doit être structuré votre script
+# voici comment doit être structuré votre script :
 
 ''' Titre du programme
 Auteur du programme
