@@ -7,6 +7,7 @@ que fait ce programme ? ...
 explications ...
 '''
 
+
 #importation des modules
 import module1
 from module2 import fonction_du_module
