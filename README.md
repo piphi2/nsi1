@@ -1,2 +1,2 @@
 # nsi1
-Cours, TPs, sujet des contrôles et corrigés, etc.
+Cours, TPs, sujets des contrôles et corrigés, etc.
